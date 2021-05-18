@@ -1,15 +1,5 @@
-hello git
+hello git 222
 hello pzw
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
 hello git
 hello git
 hello git
